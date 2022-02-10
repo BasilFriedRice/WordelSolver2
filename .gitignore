@@ -9,3 +9,6 @@ obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache
 obj/x86/Debug/WordelSolver.csproj.CopyComplete
 obj/x86/Debug/WordelSolver.csproj.FileListAbsolute.txt
 WordelSolver.v12.suo
+obj/x86/Debug/WordelSolver.csprojResolveAssemblyReference.cache
+obj/x86/Debug/WordelSolver.exe
+obj/x86/Debug/WordelSolver.pdb
