@@ -15,6 +15,4 @@ C:\FlatRedBallProjects\WordelSolver\WordelSolver\bin\Debug\WordelSolver.pdb
 C:\FlatRedBallProjects\WordelSolver\WordelSolver\bin\Debug\Utilities.dll
 C:\FlatRedBallProjects\WordelSolver\WordelSolver\bin\Debug\Utilities.pdb
 C:\FlatRedBallProjects\WordelSolver\WordelSolver\obj\x86\Debug\WordelSolver.csproj.CopyComplete
-E:\FlatRedBallProjects\WordelSolver\WordelSolver\obj\x86\Debug\WordelSolver.csproj.AssemblyReference.cache
-E:\FlatRedBallProjects\WordelSolver\WordelSolver\obj\x86\Debug\WordelSolver.csproj.CoreCompileInputs.cache
-E:\FlatRedBallProjects\WordelSolver\WordelSolver\obj\x86\Debug\WordelSolver.csproj.CopyComplete
+E:\FlatRedBallProjects\WordelSolver\WordelSolver\obj\x86\Debug\WordelSolver.csprojResolveAssemblyReference.cache

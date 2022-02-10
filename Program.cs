@@ -43,7 +43,6 @@ namespace WordelSolver
             //        resultWords.Add(chunks[0]);
             //    }
             //}
-            //int blah = 2;
             //File.WriteAllLines("dictionary5.txt", resultWords.ToArray<string>());
 
 
@@ -60,7 +59,6 @@ namespace WordelSolver
             //        resultWords.Add(chunks[0]);
             //    }
             //}
-            //int blah = 2;
             //File.WriteAllLines("dictionary10.txt", resultWords.ToArray<string>());
             //return;
 
@@ -79,7 +77,7 @@ namespace WordelSolver
             
 
 
-
+           
             while (true)
             {
                 Solver solver = new Solver();
